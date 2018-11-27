@@ -14,6 +14,6 @@ O projeto possuí um executável que recebe dois parâmetros, o primeiro é o ar
 # Testes
 Para rodar o testes basta excutar no terminal:
 ```bash
-ruby test/unit/crawler_caminhos_diamantes_test.rb
+rake test
 ```
 
