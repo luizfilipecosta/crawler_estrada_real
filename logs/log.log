@@ -1,0 +1,120 @@
+# Logfile created on 2018-11-27 10:04:58 -0300 by logger.rb/56815
+I, [2018-11-27T10:04:58.829771 #25041]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T10:04:58.829880 #25041]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177. URL 0 to 1
+I, [2018-11-27T10:06:06.569217 #25041]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T10:58:15.507759 #24891]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T10:58:15.508224 #24891]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177. URL 0 to 1
+I, [2018-11-27T10:58:17.509589 #24891]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177.
+I, [2018-11-27T10:58:17.509714 #24891]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T10:59:53.966971 #25752]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T10:59:53.967111 #25752]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177. URL 0 to 1
+I, [2018-11-27T10:59:56.056713 #25752]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177.
+I, [2018-11-27T10:59:56.056844 #25752]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T10:59:56.056912 #25752]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T10:59:56.057620 #25752]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T11:05:17.762261 #29574]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T11:05:17.762410 #29574]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177. URL 0 to 1
+I, [2018-11-27T11:05:20.188150 #29574]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177.
+I, [2018-11-27T11:05:20.188283 #29574]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T11:05:20.188351 #29574]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T11:05:20.188858 #29574]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T11:15:15.350534 #3605]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T11:15:15.350660 #3605]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177. URL 0 to 1
+I, [2018-11-27T11:15:18.467977 #3605]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177.
+I, [2018-11-27T11:15:18.468111 #3605]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T11:15:18.468188 #3605]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T11:15:18.468684 #3605]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T11:52:21.830636 #25493]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T11:52:21.831137 #25493]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T11:52:21.831229 #25493]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T11:52:21.831716 #25493]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T11:52:44.303190 #25700]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T11:52:44.303329 #25700]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 4
+I, [2018-11-27T11:52:46.978157 #25700]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T11:52:46.978287 #25700]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-da-Grota-Seca/213
+. URL 1 to 4
+I, [2018-11-27T11:52:49.106230 #25700]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-da-Grota-Seca/213
+.
+I, [2018-11-27T11:52:49.106349 #25700]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Cornelio/229
+. URL 2 to 4
+I, [2018-11-27T11:52:51.234599 #25700]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Cornelio/229
+.
+I, [2018-11-27T11:52:51.234753 #25700]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Parque-Estadual-Serra-do-Intendente/1078. URL 3 to 4
+I, [2018-11-27T11:52:53.510663 #25700]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Parque-Estadual-Serra-do-Intendente/1078.
+I, [2018-11-27T11:52:53.510796 #25700]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T11:52:53.510875 #25700]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T11:52:53.511411 #25700]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T11:59:49.766724 #30469]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T11:59:49.767170 #30469]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 4
+I, [2018-11-27T11:59:52.020954 #30469]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T11:59:52.021083 #30469]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-da-Grota-Seca/213
+. URL 1 to 4
+I, [2018-11-27T11:59:54.167115 #30469]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-da-Grota-Seca/213
+.
+I, [2018-11-27T11:59:54.167600 #30469]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Cornelio/229
+. URL 2 to 4
+I, [2018-11-27T11:59:56.359704 #30469]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Cornelio/229
+.
+I, [2018-11-27T11:59:56.359839 #30469]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Parque-Estadual-Serra-do-Intendente/1078. URL 3 to 4
+I, [2018-11-27T11:59:58.593284 #30469]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Parque-Estadual-Serra-do-Intendente/1078.
+I, [2018-11-27T11:59:58.593409 #30469]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:01:29.395322 #31507]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T12:01:29.395442 #31507]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 4
+I, [2018-11-27T12:01:33.961952 #31507]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T12:01:33.962079 #31507]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-da-Grota-Seca/213
+. URL 1 to 4
+I, [2018-11-27T12:01:37.564061 #31507]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-da-Grota-Seca/213
+.
+I, [2018-11-27T12:01:37.564193 #31507]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Cornelio/229
+. URL 2 to 4
+I, [2018-11-27T12:01:43.126591 #31507]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Cornelio/229
+.
+I, [2018-11-27T12:01:43.126733 #31507]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Parque-Estadual-Serra-do-Intendente/1078. URL 3 to 4
+I, [2018-11-27T12:01:45.832825 #31507]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Parque-Estadual-Serra-do-Intendente/1078.
+I, [2018-11-27T12:01:45.832954 #31507]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:04:43.825543 #875]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T12:04:43.825674 #875]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 1
+I, [2018-11-27T12:04:47.534514 #875]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T12:04:47.534645 #875]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:04:47.534710 #875]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T12:04:47.535155 #875]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T12:06:10.217456 #1886]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T12:06:10.217613 #1886]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 1
+I, [2018-11-27T12:06:13.125004 #1886]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T12:06:13.125145 #1886]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:06:13.125193 #1886]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T12:06:13.125647 #1886]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T12:06:28.045515 #2064]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T12:06:28.045652 #2064]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 1
+I, [2018-11-27T12:06:30.294778 #2064]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T12:06:30.294904 #2064]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:06:30.294952 #2064]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T12:06:30.295354 #2064]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T12:06:43.252956 #2334]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T12:06:43.253102 #2334]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 1
+I, [2018-11-27T12:06:45.550166 #2334]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T12:06:45.550307 #2334]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:06:45.550356 #2334]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T12:06:45.550727 #2334]  INFO -- : FILE CSV GENERATED WITH SUCCESS
+I, [2018-11-27T12:07:04.909495 #2698]  INFO -- : STARTING GET POINTS
+I, [2018-11-27T12:07:04.909636 #2698]  INFO -- : <<<<<<<GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+. URL 0 to 1
+I, [2018-11-27T12:07:07.093965 #2698]  INFO -- : <<<<<<<SUCCESS GET POINT http://www.institutoestradareal.com.br/servico/detalhe/atrativo/Cachoeira-do-Tamandua/177
+.
+I, [2018-11-27T12:07:07.094092 #2698]  INFO -- : FINISHING GET POINTS
+I, [2018-11-27T12:07:07.094142 #2698]  INFO -- : GENERATIING FILE CSV
+I, [2018-11-27T12:07:07.094596 #2698]  INFO -- : FILE file_estrada.csv GENERATED WITH SUCCESS
