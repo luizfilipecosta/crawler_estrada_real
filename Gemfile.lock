@@ -21,12 +21,14 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2018.0812)
     mini_portile2 (2.3.0)
+    minitest (5.11.3)
     net-http-digest_auth (1.4.1)
     net-http-persistent (3.0.0)
       connection_pool (~> 2.2)
     nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     ntlm-http (0.1.1)
+    rake (12.3.1)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.5)
@@ -39,7 +41,9 @@ DEPENDENCIES
   byebug
   csv
   mechanize
+  minitest
   nokogiri
+  rake
 
 BUNDLED WITH
    1.15.4

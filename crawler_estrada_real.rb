@@ -15,7 +15,7 @@ class CrawlerEstradaReal
 # @lines = []
 # @w_lines = []
 
-	attr_reader :lines, :w_lines, :result_file
+	attr_reader :lines, :w_lines
 	attr_accessor :file, :result_file
 
 	def initialize(file_base_points, result_file = "file.csv")

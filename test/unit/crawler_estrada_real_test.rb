@@ -1,8 +1,7 @@
-require 'test/unit'
+require './test/test_helper.rb'
 require './crawler_estrada_real.rb'
-require 'byebug'
 
-class CrawlerEstradaRealTest < Test::Unit::TestCase
+class CrawlerEstradaRealTest < MiniTest::Unit::TestCase
 	def setup
 		@crawler = CrawlerEstradaReal.new("./test/fixtures/links_points.txt")
 	end
